@@ -1,5 +1,4 @@
-.ipynb_checkpoints/
-README.md
+.ipynb_checkpoints/*
 RetrieveData.sh
 brandon-telle-cruise-ship-locations.zip
 brandon-telle-cruise-ship-locations/

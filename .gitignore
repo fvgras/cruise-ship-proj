@@ -13,5 +13,5 @@ fvgras/*
 keras_model.png
 rftree_port_name.dot
 sql_example.sh
-too_small_night_ship_image.jpg
-
+images/*
+weights*
